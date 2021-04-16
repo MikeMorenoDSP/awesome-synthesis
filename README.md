@@ -25,6 +25,6 @@ A curated list of free software for learning synthesis.
 - [MFreeFXBundle](https://meldaproduction.com/MFreeFxBundle) - Plugins: loudness analyzer, oscilloscope, spectral analyzer, etc.
 - [s(M)exoscope](http://armandomontanez.com/smexoscope/) - Oscilloscope Plugin
 
-## Tutorials
+## Tutorials
 - [Learning Synths](https://learningsynths.ableton.com/) - Ableton's guide for learning synthesis.
 - [Fundamentals of Synthesizer Programming](https://youtube.com/playlist?list=PL59F85FF6EE33EFD2) - Moog's video series for learning synthesis.
