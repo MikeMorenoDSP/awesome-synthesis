@@ -5,7 +5,8 @@ A curated list of free software for learning synthesis.
 **Subtractive**
 - [OB-XD](https://www.discodsp.com/obxd/) - oberheim emulation.
 - [Pendulate](https://www.eventideaudio.com/promo/pendulate) – Buchla inspired synthesizer
-- [TAL NoiseMaker](https://tal-software.com/products/tal-noisemaker)
+- [TAL NoiseMaker](https://tal-software.com/products/tal-noisemaker) -
+- [TyrellN6](https://u-he.com/products/tyrelln6/) - 
 - [Full Bucket FB-3300](https://www.fullbucket.de/music/fb3300.html) - KORG PS-3300 emulation
 
 **Frequency Modulation**
@@ -13,8 +14,8 @@ A curated list of free software for learning synthesis.
 
 **Wavetable Synthesizers**
 - [Vital](https://vital.audio/) - spectral warping wavetable synth.
-- [Helm](https://tytel.org/helm/)
-- [Surge](https://surge-synthesizer.github.io/)
+- [Helm](https://tytel.org/helm/) - 
+- [Surge](https://surge-synthesizer.github.io/) - 
 
 **Modular**
 - [VCV Rack](https://vcvrack.com/) - Eurorack simulator.
