@@ -24,8 +24,19 @@ A curated list of free software for learning synthesis.
 ## Audio Analysis Software
 - [Sonic Visualiser](https://sonicvisualiser.org/) - Visualisation, analysis, and annotation of music audio recordings.
 - [MFreeFXBundle](https://meldaproduction.com/MFreeFxBundle) - Plugins: loudness analyzer, oscilloscope, spectral analyzer, etc.
-- [s(M)exoscope](http://armandomontanez.com/smexoscope/) - Oscilloscope Plugin
+- [s(M)exoscope](http://armandomontanez.com/smexoscope/) - Oscilloscope plugin.
 
-## Tutorials
-- [Learning Synths](https://learningsynths.ableton.com/) - Ableton's guide for learning synthesis.
-- [Fundamentals of Synthesizer Programming](https://youtube.com/playlist?list=PL59F85FF6EE33EFD2) - Moog's video series for learning synthesis.
+## Web Synths
+- [Google - AR Synth](https://artsandculture.google.com/story/7AUBadCIL5Tnow) - Augmented reality synth studio.
+- [Web Audio Modules](https://www.webaudiomodules.org/wamsynths/) - obxd, dexed, tal noisemaker, and many other synths as web browser instruments.
+- [Subtract One](https://subtract.one/) - three oscillator subtractive synth.
+
+## Tutorial Websites
+- [Ableton - Learning Synths](https://learningsynths.ableton.com/) - interactive tutorial for learning synthesis.
+- [Perfect Circuit - Learn Synthesis](https://www.perfectcircuit.com/signal/learn-synthesis) - series of articles explaining syntesis with a focus on modular equipment.
+- [Moog Foundation - Synthesis Fundamentals](https://moogfoundation.org/learning-synthesis/synthesis-fundamentals/) - posters explaining synthesis fundamentals.
+- [Sound On Sound - Synth Secrets](https://www.soundonsound.com/series/synth-secrets) - in depth series of articles explaining synthesis and synthesizer programming sound design.
+
+## Tutorial Videos
+- [Moog - Fundamentals of Synthesizer Programming](https://youtube.com/playlist?list=PL59F85FF6EE33EFD2) - Moog's video series for learning synthesis.
+- [Moog Foundation's - Foundation of Syntehsis](https://youtube.com/playlist?list=PLWA7SlW2OIchLnATNl217Na7WhGmx9RK5) - Marc Doty's foundation of synthesis.
