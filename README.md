@@ -5,12 +5,14 @@ A curated list of free software for learning synthesis.
 **Subtractive**
 - [OB-XD](https://www.discodsp.com/obxd/) - oberheim emulation.
 - [Pendulate](https://www.eventideaudio.com/promo/pendulate) – Buchla inspired synthesizer
-- [TAL NoiseMaker](https://tal-software.com/products/tal-noisemaker) -
+- [TAL NoiseMaker](https://tal-software.com/products/tal-noisemaker) - 2 Oscilator subtractive synth
 - [TyrellN6](https://u-he.com/products/tyrelln6/) - 
 - [Full Bucket FB-3300](https://www.fullbucket.de/music/fb3300.html) - KORG PS-3300 emulation
+- [PG-8X 2.0](https://sites.google.com/site/mlvst0/) - Roland JX-8P Emulation
 
 **Frequency Modulation**
 - [Dexed](https://github.com/asb2m10/dexed) - yamaha dx7 emulation.
+- [Exakt Lite](https://www.sonicbits.com/exakt-lite.html) - 4 operator fm synth.
 
 **Wavetable Synthesizers**
 - [Vital](https://vital.audio/) - spectral warping wavetable synth.
