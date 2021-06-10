@@ -3,21 +3,21 @@ A curated list of free software for learning synthesis.
 
 ## Synthesizers
 **Subtractive**
-- [OB-XD](https://www.discodsp.com/obxd/) - oberheim emulation.
+- [OB-XD](https://www.discodsp.com/obxd/) - Oberheim emulation.
 - [Pendulate](https://www.eventideaudio.com/promo/pendulate) – Buchla inspired synthesizer
-- [TAL NoiseMaker](https://tal-software.com/products/tal-noisemaker) - 2 Oscilator subtractive synth
-- [TyrellN6](https://u-he.com/products/tyrelln6/) - 
+- [TAL NoiseMaker](https://tal-software.com/products/tal-noisemaker) - 2 oscilator subtractive synth
+- [TyrellN6](https://u-he.com/products/tyrelln6/) - 2 oscilator subtractive synth
 - [Full Bucket FB-3300](https://www.fullbucket.de/music/fb3300.html) - KORG PS-3300 emulation
 - [PG-8X 2.0](https://sites.google.com/site/mlvst0/) - Roland JX-8P Emulation
 
 **Frequency Modulation**
-- [Dexed](https://github.com/asb2m10/dexed) - yamaha dx7 emulation.
-- [Exakt Lite](https://www.sonicbits.com/exakt-lite.html) - 4 operator fm synth.
+- [Dexed](https://github.com/asb2m10/dexed) - yamaha dx7 emulation
+- [Exakt Lite](https://www.sonicbits.com/exakt-lite.html) - 4 operator fm synth
 
 **Wavetable Synthesizers**
-- [Vital](https://vital.audio/) - spectral warping wavetable synth.
-- [Helm](https://tytel.org/helm/) - 
-- [Surge](https://surge-synthesizer.github.io/) - 
+- [Vital](https://vital.audio/) - spectral warping wavetable synth
+- [Helm](https://tytel.org/helm/) - 2 oscilator wavetable synthesizer
+- [Surge](https://surge-synthesizer.github.io/) - Hybrid synthesizer / MPE compatible
 
 **Modular**
 - [VCV Rack](https://vcvrack.com/) - Eurorack simulator.
@@ -42,3 +42,4 @@ A curated list of free software for learning synthesis.
 ## Tutorial Videos
 - [Moog - Fundamentals of Synthesizer Programming](https://youtube.com/playlist?list=PL59F85FF6EE33EFD2) - Moog's video series for learning synthesis.
 - [Moog Foundation's - Foundation of Syntehsis](https://youtube.com/playlist?list=PLWA7SlW2OIchLnATNl217Na7WhGmx9RK5) - Marc Doty's foundation of synthesis.
+- [Catalogue of FM Materials](https://youtube.com/playlist?list=PLq3MZ5erDgCS-oD50DMwNxRyL2B3Er6lB) - Ratios and fm algorithms used for getting metal, wood and air sounds.
