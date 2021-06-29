@@ -43,3 +43,9 @@ A curated list of free software for learning synthesis.
 - [Moog - Fundamentals of Synthesizer Programming](https://youtube.com/playlist?list=PL59F85FF6EE33EFD2) - Moog's video series for learning synthesis.
 - [Moog Foundation's - Foundation of Syntehsis](https://youtube.com/playlist?list=PLWA7SlW2OIchLnATNl217Na7WhGmx9RK5) - Marc Doty's foundation of synthesis.
 - [Catalogue of FM Materials](https://youtube.com/playlist?list=PLq3MZ5erDgCS-oD50DMwNxRyL2B3Er6lB) - Ratios and fm algorithms used for getting metal, wood and air sounds.
+
+## Other Free Stuff
+- [Air Windows](http://www.airwindows.com/) - Freeware AUs and VSTs with no GUI, mostly audio effects.
+- [sforzando - Sample Player] - Free sample player for sfz files, for orchestral libraries.
+- [SFZ](https://sfz.tools/sfizz/downloads) - Sample based musical syntheizer.
+- [VSCO](https://vis.versilstudios.com/vsco-community.html) - Free orchestral library.
