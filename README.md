@@ -9,6 +9,7 @@ A curated list of free software for learning synthesis.
 - [TyrellN6](https://u-he.com/products/tyrelln6/) - 2 oscilator subtractive synth
 - [Full Bucket FB-3300](https://www.fullbucket.de/music/fb3300.html) - KORG PS-3300 emulation
 - [PG-8X 2.0](https://sites.google.com/site/mlvst0/) - Roland JX-8P Emulation
+- [VK-1](https://blamsoft.com/vst/vk-1-viking-synthesizer/) - Minimoog-like emulation.
 
 **Frequency Modulation**
 - [Dexed](https://github.com/asb2m10/dexed) - yamaha dx7 emulation
