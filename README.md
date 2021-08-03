@@ -9,7 +9,7 @@ A curated list of free software for learning synthesis.
 - [TyrellN6](https://u-he.com/products/tyrelln6/) - 2 oscilator subtractive synth
 - [Full Bucket FB-3300](https://www.fullbucket.de/music/fb3300.html) - KORG PS-3300 emulation
 - [PG-8X 2.0](https://sites.google.com/site/mlvst0/) - Roland JX-8P Emulation
-- [VK-1](https://blamsoft.com/vst/vk-1-viking-synthesizer/) - Minimoog-like emulation.
+- [VK-1](https://blamsoft.com/vst/vk-1-viking-synthesizer/) - Moog Voyager emulation.
 
 **Frequency Modulation**
 - [Dexed](https://github.com/asb2m10/dexed) - yamaha dx7 emulation
@@ -23,6 +23,7 @@ A curated list of free software for learning synthesis.
 **Modular**
 - [VCV Rack](https://vcvrack.com/) - Eurorack simulator.
 - [Automatonism](https://www.automatonism.com/) - Virtual modular synthesizer for Pure Data.
+
 
 ## Audio Analysis Software
 - [Sonic Visualiser](https://sonicvisualiser.org/) - Visualisation, analysis, and annotation of music audio recordings.
@@ -47,6 +48,7 @@ A curated list of free software for learning synthesis.
 
 ## Other Free Stuff
 - [Air Windows](http://www.airwindows.com/) - Freeware AUs and VSTs with no GUI, mostly audio effects.
+- [Sitala](https://decomposer.de/sitala/) - Free drum sampler.
 - [sforzando - Sample Player] - Free sample player for sfz files, for orchestral libraries.
 - [SFZ](https://sfz.tools/sfizz/downloads) - Sample based musical syntheizer.
 - [VSCO](https://vis.versilstudios.com/vsco-community.html) - Free orchestral library.
