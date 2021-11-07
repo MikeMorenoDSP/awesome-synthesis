@@ -40,6 +40,7 @@ A curated list of free and open source resources for learning synthesis.
 - [Perfect Circuit - Learn Synthesis](https://www.perfectcircuit.com/signal/learn-synthesis) - series of articles explaining syntesis with a focus on modular equipment.
 - [Moog Foundation - Synthesis Fundamentals](https://moogfoundation.org/learning-synthesis/synthesis-fundamentals/) - posters explaining synthesis fundamentals.
 - [Sound On Sound - Synth Secrets](https://www.soundonsound.com/series/synth-secrets) - in depth series of articles explaining synthesis and synthesizer programming sound design.
+- [Learning Modular](https://learningmodular.com/category/articles/) - series of articles and videos explaining several modular synthesis.
 
 ## Tutorial Videos
 - [Moog - Fundamentals of Synthesizer Programming](https://youtube.com/playlist?list=PL59F85FF6EE33EFD2) - Moog's video series for learning synthesis.
