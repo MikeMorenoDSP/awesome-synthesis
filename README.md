@@ -44,8 +44,17 @@ A curated list of free and open source resources for learning synthesis.
 
 ## Tutorial Videos
 - [Moog - Fundamentals of Synthesizer Programming](https://youtube.com/playlist?list=PL59F85FF6EE33EFD2) - Moog's video series for learning synthesis.
-- [Moog Foundation's - Foundation of Syntehsis](https://youtube.com/playlist?list=PLWA7SlW2OIchLnATNl217Na7WhGmx9RK5) - Marc Doty's foundation of synthesis.
+- [Moog Foundation's - Foundation of Synthesis](https://youtube.com/playlist?list=PLWA7SlW2OIchLnATNl217Na7WhGmx9RK5) - Marc Doty's foundation of synthesis.
 - [Catalogue of FM Materials](https://youtube.com/playlist?list=PLq3MZ5erDgCS-oD50DMwNxRyL2B3Er6lB) - Ratios and fm algorithms used for getting metal, wood and air sounds.
+- [Andrew Huang - FM Synths in under 4 minutes](https://youtu.be/vvBl3YUBUyY) - Vibrato / FM Explanation, very basic.
+- [Sounds Good - Granular Synthesis](https://youtu.be/SIsIgCLz1ps) - a producer focused explanation and documentary on granular synthesis.
+- [White Noises - Granular synthesis](https://youtu.be/ftDLRYnRYZQ) - eurorack explanation on granular synthesis.
+
+
+## Didactic Youtube Channels
+- [Loopop](https://www.youtube.com/c/loopop) -  Loopop is all about in-depth electronic music & synth ideas tips, tricks and reviews! 
+- [Red Means Recording](https://www.youtube.com/c/RedMeansRecording/) - synthesizer demos, music, guides and tutorials.
+- [mylarmelodies](https://www.youtube.com/c/mylarmelodies/) - Eurorack focused interviews, demos and suggestions.
 
 ## Other Free Stuff
 - [Air Windows](http://www.airwindows.com/) - Freeware AUs and VSTs with no GUI, mostly audio effects.
