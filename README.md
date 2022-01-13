@@ -24,7 +24,6 @@ A curated list of free and open source resources for learning synthesis.
 - [VCV Rack](https://vcvrack.com/) - Eurorack simulator.
 - [Automatonism](https://www.automatonism.com/) - Virtual modular synthesizer for Pure Data.
 
-
 ## Audio Analysis Software
 - [Sonic Visualiser](https://sonicvisualiser.org/) - Visualisation, analysis, and annotation of music audio recordings.
 - [MFreeFXBundle](https://meldaproduction.com/MFreeFxBundle) - Plugins: loudness analyzer, oscilloscope, spectral analyzer, etc.
@@ -50,7 +49,6 @@ A curated list of free and open source resources for learning synthesis.
 - [Sounds Good - Granular Synthesis](https://youtu.be/SIsIgCLz1ps) - a producer focused explanation and documentary on granular synthesis.
 - [White Noises - Granular synthesis](https://youtu.be/ftDLRYnRYZQ) - eurorack explanation on granular synthesis.
 
-
 ## Didactic Youtube Channels
 - [Loopop](https://www.youtube.com/c/loopop) -  Loopop is all about in-depth electronic music & synth ideas tips, tricks and reviews! 
 - [Red Means Recording](https://www.youtube.com/c/RedMeansRecording/) - synthesizer demos, music, guides and tutorials.
@@ -59,6 +57,7 @@ A curated list of free and open source resources for learning synthesis.
 ## Other Free Stuff
 - [Air Windows](http://www.airwindows.com/) - Freeware AUs and VSTs with no GUI, mostly audio effects.
 - [Sitala](https://decomposer.de/sitala/) - Free drum sampler.
+- [Valhalla DSP](https://valhalladsp.com/demos-downloads/) - Reverbs and Delays
 - [sforzando - Sample Player] - Free sample player for sfz files, for orchestral libraries.
 - [SFZ](https://sfz.tools/sfizz/downloads) - Sample based musical syntheizer.
 - [VSCO](https://vis.versilstudios.com/vsco-community.html) - Free orchestral library.
