@@ -61,4 +61,4 @@ A curated list of free and open source resources for learning synthesis.
 - [sforzando - Sample Player] - Free sample player for sfz files, for orchestral libraries.
 - [SFZ](https://sfz.tools/sfizz/downloads) - Sample based musical syntheizer.
 - [VSCO](https://vis.versilstudios.com/vsco-community.html) - Free orchestral library.
-– [MIS](http://theremin.music.uiowa.edu/MIS.html) - University of Iowa Music Instrument Samples
+- [MIS](http://theremin.music.uiowa.edu/MIS.html) - University of Iowa Music Instrument Samples
