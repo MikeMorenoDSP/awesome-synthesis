@@ -10,6 +10,7 @@ A curated list of free and open source resources for learning synthesis.
 - [Full Bucket FB-3300](https://www.fullbucket.de/music/fb3300.html) - KORG PS-3300 emulation
 - [PG-8X 2.0](https://sites.google.com/site/mlvst0/) - Roland JX-8P Emulation
 - [VK-1](https://blamsoft.com/vst/vk-1-viking-synthesizer/) - Moog Voyager emulation.
+- [odin2](https://www.thewavewarden.com/odin2) - 24 voice polyphonic synth.
 
 **Frequency Modulation**
 - [Dexed](https://github.com/asb2m10/dexed) - yamaha dx7 emulation
