@@ -24,6 +24,8 @@ A curated list of free and open source resources for learning synthesis.
 **Modular**
 - [VCV Rack](https://vcvrack.com/) - Eurorack simulator.
 - [Automatonism](https://www.automatonism.com/) - Virtual modular synthesizer for Pure Data.
+- [Bespoke](https://www.bespokesynth.com/) - A cross-platform modular DAW.
+- [Ossia](https://ossia.io/) - cross-platform sequencer compatible with Max, Pd, OpenFrameworks, Processing...
 
 ## Audio Analysis Software
 - [Sonic Visualiser](https://sonicvisualiser.org/) - Visualisation, analysis, and annotation of music audio recordings.
