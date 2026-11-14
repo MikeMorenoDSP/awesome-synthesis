@@ -26,6 +26,7 @@ A curated list of free and open source resources for learning synthesis.
 - [Automatonism](https://www.automatonism.com/) - Virtual modular synthesizer for Pure Data.
 - [Bespoke](https://www.bespokesynth.com/) - A cross-platform modular DAW.
 - [Ossia](https://ossia.io/) - cross-platform sequencer compatible with Max, Pd, OpenFrameworks, Processing...
+- [FM-1 Emulator](https://fm1-emulator.atst.tools/) - Free browser emulator for the M-VAVE FM-1 pocket synth; plays stock and 200+ community firmwares
 
 ## Audio Analysis Software
 - [Sonic Visualiser](https://sonicvisualiser.org/) - Visualisation, analysis, and annotation of music audio recordings.
